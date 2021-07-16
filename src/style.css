@@ -1,4 +1,6 @@
 .title{
     color: magenta;
     font-size: 3rem;
+    background-color: black;
+    border: 2px solid magenta;
 }
